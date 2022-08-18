@@ -88,9 +88,5 @@ check_sign_label = Label(fg=GREEN, bg=YELLOW)
 check_sign_label.grid(column=1, row=3)
 
 
-
-
-
-
 window.mainloop()
 
